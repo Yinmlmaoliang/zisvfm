@@ -32,5 +32,6 @@ We have provided a `demo.ipynb` jupyter notebook to easily run predictions using
 The code used to evaluate model performance in this project is from [UOAIS](https://github.com/gist-ailab/uoais). Thanks to the authors for sharing the code!
 ## Visualisation Results
 
-![fig1](./media/fig1.gif) ![fig2](./media/fig2.gif) ![fig3](./media/fig3.gif)
-
+<center class="half">
+2     <img src="./media/fig1.gif" width="200"/><img src="./media/fig2.gif" width="200"/><img src="./media/fig3.gif" width="200"/>
+3 </center>
