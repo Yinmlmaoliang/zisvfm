@@ -33,8 +33,6 @@ The code used to evaluate model performance in this project is from [UOAIS](http
 ## Visualisation Results
 
 <center class="half">
-    <img src="./media/fig1.gif" alt="fig1" style="width:30%; display:inline-block; margin:5px;" />
-    <img src="./media/fig2.gif" alt="fig2" style="width:30%; display:inline-block; margin:5px;" />
-    <img src="./media/fig3.gif" alt="fig3" style="width:30%; display:inline-block; margin:5px;" />
+    <img src="./media/fig1.gif" alt="fig1" style="width:30%; display:inline-block; margin:5px;" /><img src="./media/fig2.gif" alt="fig2" style="width:30%; display:inline-block; margin:5px;" /><img src="./media/fig3.gif" alt="fig3" style="width:30%; display:inline-block; margin:5px;" />
 </center>
 
