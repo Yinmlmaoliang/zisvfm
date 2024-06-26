@@ -32,9 +32,9 @@ We have provided a `demo.ipynb` jupyter notebook to easily run predictions using
 The code used to evaluate model performance in this project is from [UOAIS](https://github.com/gist-ailab/uoais). Thanks to the authors for sharing the code!
 ## Visualisation Results
 
-<div style="text-align:center">
+<center class="half">
     <img src="./media/fig1.gif" alt="fig1" style="width:30%; display:inline-block; margin:5px;" />
     <img src="./media/fig2.gif" alt="fig2" style="width:30%; display:inline-block; margin:5px;" />
     <img src="./media/fig3.gif" alt="fig3" style="width:30%; display:inline-block; margin:5px;" />
-</div>
+</center>
 
