@@ -33,5 +33,5 @@ The code used to evaluate model performance in this project is from [UOAIS](http
 ## Visualisation Results
 
 <center class="half">
-    <img src="./media/fig1.gif" width="200"/><img src="./media/fig2.gif" width="200"/><img src="./media/fig3.gif" width="200"/>
+    <img src="./media/fig1.gif" width="150"/><img src="./media/fig2.gif" width="150"/><img src="./media/fig3.gif" width="150"/>
 </center>
