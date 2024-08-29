@@ -7,7 +7,6 @@ Service robots operating in unstructured environments must effectively recognise
 ![Method Overview](./media/zisvfm.png)
 Overview of the proposed methodology. This approach employs two vision foundation models: SAM for segmentation and ViT, trained with DINO, for feature description in a scene. The process consists of three main stages: 1) Generating object-agnostic mask proposals using SAM on colorized depth images; 2) Refinement of object masks by removing non-object masks based on observed characteristics and explicit visual concepts from a self-supervised ViT; 3) Point prompts derived from clustering centres within each object's proposal further optimise object segmentation performance.
 
-
 ## Installation
 To install and run this project using a Conda environment, follow these steps:
 1. **Clone the Repository**
@@ -24,14 +23,11 @@ To install and run this project using a Conda environment, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-
 ## Usage
 ### Demo
 We have provided a `demo.ipynb` jupyter notebook to easily run predictions using our model.
 ### Testing on the OCID dataset and the OSD dataset.
 The code used to evaluate model performance in this project is from [UOAIS](https://github.com/gist-ailab/uoais). Thanks to the authors for sharing the code!
 ## Visualisation Results
-
 | ![fig1](./media/fig1.gif) | ![fig2](./media/fig2.gif) | ![fig3](./media/fig3.gif) |
 |:-:|:-:|:-:|
-
