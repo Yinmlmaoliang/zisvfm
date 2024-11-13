@@ -1,0 +1,24 @@
+DescriptorModel:
+  dim: 768
+  model_type: vit_base_reg
+  vit_patch_size: 14
+  weights_dir: /home/maoliang/git/
+FilterMasks:
+  image_size:
+  - 480
+  - 640
+  mean_threshold: 0.47
+  vit_patch_size: 14
+  redundancy_threshold: 0.8
+  patch_coverage_threshold: 0.4
+SegmentorModel:
+  paths:
+    model_type: vit_h
+    weights_dir: /home/maoliang/git/
+  parameters:
+    box_nms_thresh: 0.5
+    crop_overlap_ratio: 0
+    min_mask_region_area: 0
+    points_per_batch: 64
+    segmentor_width_size: 640
+    stability_score_thresh: 0.95

@@ -31,7 +31,7 @@ To install and run this project using a Conda environment, follow these steps:
    ```
 2. **Create and Activate a Conda Environment**
    ```bash
-   conda create --name zisvfm python=3.9  # Replace 'myenv' with your preferred env name
+   conda create --name zisvfm python=3.9
    conda activate zisvfm
    ```
 3. **Install Dependencies**
@@ -46,3 +46,4 @@ The code used to evaluate model performance in this project is from [UOAIS](http
 ## Visualisation Results
 | ![fig1](./media/fig1.gif) | ![fig2](./media/fig2.gif) | ![fig3](./media/fig3.gif) |
 |:-:|:-:|:-:|
+| ![fig4](./media/fig4.gif) | ![fig5](./media/fig5.gif) | ![fig6](./media/fig6.gif) |
