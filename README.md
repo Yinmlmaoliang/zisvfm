@@ -47,3 +47,10 @@ The code used to evaluate model performance in this project is from [UOAIS](http
 | ![fig1](./media/fig1.gif) | ![fig2](./media/fig2.gif) | ![fig3](./media/fig3.gif) |
 |:-:|:-:|:-:|
 | ![fig4](./media/fig4.gif) | ![fig5](./media/fig5.gif) | ![fig6](./media/fig6.gif) |
+
+## Acknowledgements
+We thank the authors of the following repositories for their outstanding work and open-source contributions:
+
+* [DINOv2](https://github.com/facebookresearch/dinov2) - The official implementation of DINOv2 self-supervised learning method
+* [Segment Anything](https://github.com/facebookresearch/segment-anything) - The official implementation of the Segment Anything Model (SAM)
+* [Dinov2_public](https://github.com/ccharest93/Dinov2_public) - A public implementation of DINOv2 with additional features

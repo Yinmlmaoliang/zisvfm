@@ -2,7 +2,7 @@ DescriptorModel:
   dim: 768
   model_type: vit_base_reg
   vit_patch_size: 14
-  weights_dir: /home/maoliang/git/
+  weights_dir: ./weights/
 FilterMasks:
   image_size:
   - 480
@@ -14,7 +14,7 @@ FilterMasks:
 SegmentorModel:
   paths:
     model_type: vit_h
-    weights_dir: /home/maoliang/git/
+    weights_dir: ./weights/
   parameters:
     box_nms_thresh: 0.5
     crop_overlap_ratio: 0
