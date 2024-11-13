@@ -42,7 +42,7 @@ To install and run this project using a Conda environment, follow these steps:
 ### Demo
 We have provided a `demo.ipynb` jupyter notebook to easily run predictions using our model.
 ### Testing on the OCID dataset and the OSD dataset.
-The code used to evaluate model performance in this project is from [UOAIS](https://github.com/gist-ailab/uoais). Thanks to the authors for sharing the code!
+The code used to evaluate our model performance is from [UOAIS](https://github.com/gist-ailab/uoais). Thanks to the authors for sharing the code!
 ## Visualisation Results
 | ![fig1](./media/fig1.gif) | ![fig2](./media/fig2.gif) | ![fig3](./media/fig3.gif) |
 |:-:|:-:|:-:|
@@ -51,6 +51,6 @@ The code used to evaluate model performance in this project is from [UOAIS](http
 ## Acknowledgements
 We thank the authors of the following repositories for their outstanding work and open-source contributions:
 
-* [DINOv2](https://github.com/facebookresearch/dinov2) - The official implementation of DINOv2 self-supervised learning method
-* [Segment Anything](https://github.com/facebookresearch/segment-anything) - The official implementation of the Segment Anything Model (SAM)
-* [Dinov2_public](https://github.com/ccharest93/Dinov2_public) - A public implementation of DINOv2 with additional features
+* [DINOv2](https://github.com/facebookresearch/dinov2) - The official implementation of DINOv2 self-supervised learning method.
+* [Segment Anything](https://github.com/facebookresearch/segment-anything) - The official implementation of the Segment Anything Model (SAM).
+* [Dinov2_public](https://github.com/ccharest93/Dinov2_public) - A public implementation of DINOv2 with additional features.
